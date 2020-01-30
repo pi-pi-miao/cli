@@ -1,5 +1,4 @@
 *.coverprofile
 *.orig
 node_modules/
-vendor
 .idea
